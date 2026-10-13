@@ -1,0 +1,32 @@
+{
+  "name": "exemplo-grid-bootstrap-vite",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Como executar:",
+  "homepage": "https://github.com/DavisonNRodrigues/atividade_PWII#readme",
+  "bugs": {
+    "url": "https://github.com/DavisonNRodrigues/atividade_PWII/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavisonNRodrigues/atividade_PWII.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+  "bootstrap": "^5.3.3",
+  "react": "^19.1.1",
+  "react-dom": "^19.1.1"
+},
+"devDependencies": {
+  "@vitejs/plugin-react": "^6.1.1",
+  "vite": "^8.2.0"
+}
+}
